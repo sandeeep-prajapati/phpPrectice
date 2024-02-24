@@ -1,0 +1,31 @@
+<?php
+echo date('d');
+echo '<br>';
+echo date('m');
+echo '<br>';
+echo date('Y');
+echo '<br>';
+echo date('1');
+echo '<br>';
+echo date('zY/m/d');
+echo '<br>';
+echo date('m/d/Y');
+echo '<br>';
+echo date('m-d-Y');
+echo '<br>';
+echo date('h');
+echo '<br>';
+echo date('i');
+echo '<br>';
+echo date('i');
+echo '<br>';
+echo date('s');
+echo '<br>';
+echo date('a');
+echo '<br>';
+echo date('h:i:sa');
+echo '<br>';
+// date_default_timezone_set('Asia/Dhaka');
+echo date('h:i:sa');
+echo '<br>';
+?>
